@@ -15,7 +15,7 @@
     "ejs": "^3.0.1",
     "email-templates": "^7.0.2",
     "express": "^4.17.1",
-    "nodemailer": "^6.4.2"
+    "nodemailer": "^6.4.16"
   },
   "devDependencies": {
     "@types/body-parser": "^1.17.1",
